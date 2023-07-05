@@ -1,0 +1,10 @@
+#partie 1 : description
+#partie 2 : description
+#partie 3 : description 
+--fin
+#partie 4 : description
+--fin
+--fin
+#partie 5 : description 
+--fin
+$lien partie 4
